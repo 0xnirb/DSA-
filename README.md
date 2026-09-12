@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/0xnirb/DSA-/tree/master/0035-search-insert-position) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/0xnirb/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/0xnirb/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/0xnirb/DSA-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/0xnirb/DSA-/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/0xnirb/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Newton's Method
 |  |
 | ------- |
