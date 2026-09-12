@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/0xnirb/DSA-/tree/master/0035-search-insert-position) |
 | [3875-construct-uniform-parity-array-i](https://github.com/0xnirb/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/0xnirb/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/0xnirb/DSA-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
